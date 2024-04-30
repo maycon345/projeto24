@@ -120,5 +120,10 @@ font-size: 24px;
     .estudante-todos{
         display: grid;
         grid-template-columns: 20% 20% 20% 20% 20%;
+    }.estudante-titulo{
+        text-align: center;
+        padding: 24px 0;
     }
+    
+
     
